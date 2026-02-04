@@ -2,7 +2,6 @@
 
 WePet is a responsive and interactive pet adoption website designed to connect pets with loving owners. The platform offers an easy-to-use interface for browsing pets, searching based on preferences, learning about pet care, and managing adoption or giveaway listings.
 
----
 
 ## 🌟 Features
 
@@ -11,7 +10,6 @@ WePet is a responsive and interactive pet adoption website designed to connect p
 - Displays pet-related news articles and diet tips  
 - Shows real-time date, day, and time  
 
----
 
 ### 🐶 Browse Available Pets
 - View available pets with detailed information:
@@ -20,7 +18,6 @@ WePet is a responsive and interactive pet adoption website designed to connect p
   - Gender  
 - Browse through listed pets and show interest in adoption  
 
----
 
 ### 🔍 Find a Dog / Cat
 - Search system to help users find pets based on:
@@ -30,7 +27,6 @@ WePet is a responsive and interactive pet adoption website designed to connect p
   - Gender  
 - Provides filtered results to match user preferences  
 
----
 
 ### 🐕 Dog Care & 🐈 Cat Care
 - Separate sections dedicated to dog and cat care  
@@ -39,23 +35,12 @@ WePet is a responsive and interactive pet adoption website designed to connect p
   - Daily care
   - Overall pet well-being  
 
----
 
 ### 🎁 Giveaway
 - Allows users to list their pets for adoption  
 - Users can enter pet details to create unique giveaway listings  
-- Simplifies the process of finding a new home for pets  
+- Simplifies the process of finding a new home for pets
 
----
-
-### 📞 Contact
-For inquiries, reach out via:
-
-📧 Email: mkeadib30@example.com 
-
-💼 LinkedIn: [Md Khairul Enam Adib] (https://www.linkedin.com/in/mk-enam-adib/)
-
----
 
 ## 🛠 Technologies Used
 
@@ -63,7 +48,6 @@ For inquiries, reach out via:
 - **CSS3** – Styling and responsive design  
 - **JavaScript** – Interactivity and real-time functionality  
 
----
 
 ## 🎯 Project Goals
 
@@ -72,11 +56,18 @@ For inquiries, reach out via:
 - Improve UI/UX design skills  
 - Simulate a real-world pet adoption platform  
 
----
 
 ## 🚀 Future Improvements
 
 - Backend integration for real adoption requests  
 - Database support for dynamic pet listings  
 - User authentication system  
-- Admin dashboard for managing pets and giveaways  
+- Admin dashboard for managing pets and giveaways
+
+## 📞 Contact
+For inquiries, reach out via:
+
+📧 Email: mkeadib30@example.com 
+
+💼 LinkedIn: [Md Khairul Enam Adib] (https://www.linkedin.com/in/mk-enam-adib/)
+
